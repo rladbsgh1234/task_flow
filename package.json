@@ -1,0 +1,13 @@
+{
+  "name": "ku-book-trade",
+  "version": "1.0.0",
+  "description": "고려대학교 중고 서적 거래 애플리케이션",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
